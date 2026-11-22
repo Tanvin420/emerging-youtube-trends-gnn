@@ -1,0 +1,16 @@
+{
+  "model_a": "spcga-gat",
+  "model_b": "sage",
+  "task": "emergence",
+  "horizon": 1,
+  "seeds": [
+    42,
+    7,
+    123
+  ],
+  "n_days": 1554,
+  "observed_diff": -0.013871884976372864,
+  "ci_95_low": -0.019196867235202364,
+  "ci_95_high": -0.008446380443243199,
+  "p_value_a_gt_b": 1.0
+}

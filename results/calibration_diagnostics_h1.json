@@ -1,0 +1,60 @@
+{
+  "model": "spcga-gat",
+  "overall": {
+    "brier_mean": 0.060834509648142986,
+    "brier_std": 0.0013804169213513175,
+    "ece_mean": 0.059212089573499806,
+    "ece_std": 0.0029666813651328997,
+    "mean_pred_prob_mean": 0.26158488790194195,
+    "mean_pred_prob_std": 0.002966673562432588,
+    "empirical_pos_rate_mean": 0.20237280428409576,
+    "empirical_pos_rate_std": 0.0,
+    "n": 81760
+  },
+  "by_region": {
+    "US": {
+      "brier_mean": 0.057912666798931416,
+      "brier_std": 0.0007773772391234757,
+      "ece_mean": 0.04648710928044258,
+      "ece_std": 0.001483901674779407,
+      "mean_pred_prob_mean": 0.24654403825600943,
+      "mean_pred_prob_std": 0.0014839039999534063,
+      "empirical_pos_rate_mean": 0.20005692541599274,
+      "empirical_pos_rate_std": 0.0,
+      "n": 21079
+    },
+    "GB": {
+      "brier_mean": 0.0599439444491908,
+      "brier_std": 0.001118390579254414,
+      "ece_mean": 0.05363332691652065,
+      "ece_std": 0.002500044142286768,
+      "mean_pred_prob_mean": 0.25540226697921753,
+      "mean_pred_prob_std": 0.0025000360214565186,
+      "empirical_pos_rate_mean": 0.2017689347267151,
+      "empirical_pos_rate_std": 0.0,
+      "n": 21708
+    },
+    "CA": {
+      "brier_mean": 0.06049509011307632,
+      "brier_std": 0.0016874714220226309,
+      "ece_mean": 0.05114898207650695,
+      "ece_std": 0.004488936457763673,
+      "mean_pred_prob_mean": 0.2516433248917262,
+      "mean_pred_prob_std": 0.004488946015718278,
+      "empirical_pos_rate_mean": 0.20049434900283813,
+      "empirical_pos_rate_std": 0.0,
+      "n": 21038
+    },
+    "IN": {
+      "brier_mean": 0.06574460850156462,
+      "brier_std": 0.0023460592330953093,
+      "ece_mean": 0.09037826157666638,
+      "ece_std": 0.004315996788988286,
+      "mean_pred_prob_mean": 0.29840725660324097,
+      "mean_pred_prob_std": 0.004315978347570485,
+      "empirical_pos_rate_mean": 0.20802898705005646,
+      "empirical_pos_rate_std": 0.0,
+      "n": 17935
+    }
+  }
+}

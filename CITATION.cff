@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite the paper below (required by the LICENSE)."
+title: "Emerging YouTube Trends with Graph Neural Networks: code and results"
+authors:
+  - family-names: Rahman
+    given-names: Syed Rijuan Rubaiyat
+  - family-names: Tanvin
+    given-names: Jamal Uddin
+  - family-names: Shoeb
+    given-names: Ahad Bin Islam
+  - family-names: Islam
+    given-names: Muhammad Nazrul
+  - family-names: Sharmin
+    given-names: Nusrat
+license-url: "LICENSE"
+preferred-citation:
+  type: conference-paper
+  title: "Centrality-Guided Neural Graph Attention for Predicting Emerging YouTube Trends"
+  authors:
+    - family-names: Rahman
+      given-names: Syed Rijuan Rubaiyat
+    - family-names: Tanvin
+      given-names: Jamal Uddin
+    - family-names: Shoeb
+      given-names: Ahad Bin Islam
+    - family-names: Islam
+      given-names: Muhammad Nazrul
+    - family-names: Sharmin
+      given-names: Nusrat
+  collection-title: "2026 29th International Conference on Computer and Information Technology (ICCIT)"
+  conference:
+    name: "29th International Conference on Computer and Information Technology (ICCIT 2026)"
+    city: "Cox's Bazar"
+    country: BD
+  year: 2026

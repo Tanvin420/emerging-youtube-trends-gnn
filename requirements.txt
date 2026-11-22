@@ -1,0 +1,14 @@
+# Install PyTorch for your CUDA version first: https://pytorch.org/get-started/locally/
+# (tested with PyTorch 2.11 + CUDA 12.8, Python 3.11)
+torch
+torch-geometric
+sentence-transformers
+xgboost
+scikit-learn
+networkx
+scipy
+pandas
+numpy
+pyarrow
+nltk
+matplotlib

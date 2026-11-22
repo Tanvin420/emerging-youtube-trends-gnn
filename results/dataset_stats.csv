@@ -1,0 +1,5 @@
+region,days,video_instances,unique_videos,avg_edges_per_day,avg_degree,emergence_positives,emergence_eligible
+USA,640,128119,24047,2910.6,29.1,3586,81036
+UK,640,128389,24715,2978.6,29.7,3759,81385
+Canada,640,128105,25947,2841.2,28.4,3639,80044
+India,640,121951,36737,4231.9,44.2,3528,67407

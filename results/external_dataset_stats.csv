@@ -1,0 +1,6 @@
+region,video_instances,unique_videos,days,avg_edges_per_day,avg_degree
+Canada '18,10592,6063,53,2647.1,26.5
+Germany '18,10597,7684,53,3064.3,30.7
+France '18,10594,7823,53,3185.2,31.9
+UK '18,10593,1238,53,2882.2,28.8
+USA '18,10600,2284,53,2570.7,25.7

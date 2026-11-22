@@ -1,0 +1,88 @@
+{
+  "persistence_baselines_h1": {
+    "status": {
+      "precision": 0.8384194528875379,
+      "recall": 0.833554937749305,
+      "f1": 0.8359801188022791,
+      "auc": 0.9612231209768829,
+      "pr_auc": 0.8779285563191814,
+      "precision_at_k": 0.7991055239937145,
+      "n": 81760,
+      "pos_rate": 0.20237279843444228
+    },
+    "emergence": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "auc": 0.875998916154858,
+      "pr_auc": 0.23593021083167134,
+      "precision_at_k": 0.28721859114015974,
+      "n": 65310,
+      "pos_rate": 0.04216812126779972
+    },
+    "emergence_incl_departures": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "auc": 0.8725067354192582,
+      "pr_auc": 0.1811861700871828,
+      "precision_at_k": 0.22912127814088598,
+      "n": 84617,
+      "pos_rate": 0.03254665138210998
+    },
+    "view_target": {
+      "precision": 0.9865212212400476,
+      "recall": 0.8358652926803357,
+      "f1": 0.904965925755528,
+      "auc": 0.9864350453584274,
+      "pr_auc": 0.9602215433484154,
+      "precision_at_k": 0.8854775310740466,
+      "n": 81760,
+      "pos_rate": 0.23025929549902152
+    }
+  },
+  "split_counts_h1": {
+    "train": {
+      "status_n": 278524,
+      "status_pos": 55829,
+      "emergence_n": 222604,
+      "emergence_pos": 11001,
+      "low_n": 291036,
+      "low_departed": 68432,
+      "emergence_pos_rate": 0.049419597132127006,
+      "low_departed_frac": 0.23513242348025673
+    },
+    "val": {
+      "status_n": 27490,
+      "status_pos": 5536,
+      "emergence_n": 21958,
+      "emergence_pos": 757,
+      "low_n": 28652,
+      "low_departed": 6694,
+      "emergence_pos_rate": 0.034474906639948996,
+      "low_departed_frac": 0.2336311601284378
+    },
+    "test": {
+      "status_n": 81760,
+      "status_pos": 16546,
+      "emergence_n": 65310,
+      "emergence_pos": 2754,
+      "low_n": 84617,
+      "low_departed": 19307,
+      "emergence_pos_rate": 0.04216812126779972,
+      "low_departed_frac": 0.22816928040464682
+    }
+  },
+  "daily_graph_nodes": {
+    "min": 138,
+    "max": 247,
+    "mean_by_region": {
+      "CA": 200.2,
+      "GB": 200.6,
+      "IN": 190.5,
+      "US": 200.2
+    },
+    "snapshots_over_300_nodes": 0
+  },
+  "same_channel_pairs_per_day_mean": 25.121484375
+}
